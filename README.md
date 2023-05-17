@@ -8,6 +8,6 @@
 <h2>Results</h2>
 The results from the butterworth filter yielded much better results. However other filters such as Chebeshev type II or elliptic filter may yield even better results due to a sharper transition band.
 
-<img src="Figures/Audio.jpg"></img>
-<img src="Figures/FreqResp.jpg"></img>
-<img src="Figures/PoleZero.jpg"></img>
+<img src="Figures/Audio.jpg" width="500px"></img><br/>
+<img src="Figures/FreqResp.jpg" width="500px"></img><br/>
+<img src="Figures/PoleZero.jpg" width="500px"></img><br/>
