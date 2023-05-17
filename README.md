@@ -11,3 +11,4 @@ The results from the butterworth filter yielded much better results. However oth
 <img src="Figures/Audio.jpg" width="500px"></img><br/>
 <img src="Figures/FreqResp.jpg" width="500px"></img><br/>
 <img src="Figures/PoleZero.jpg" width="500px"></img><br/>
+<img src="Figures/PoleZero2.jpg" width="500px"></img><br/>
